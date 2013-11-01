@@ -23,6 +23,10 @@ Open an issue on this repo and declare your intent to participate. You may conti
 
 Also feel free to comment on other participants' issues.
 
+## Resources
+
+There's [an open issue](https://github.com/dariusk/NaNoGenMo/issues/11) where you can add resources (libraries, corpuses, APIs, techniques, etc).
+
 ## That's It
 
 So yeah. Have fun with this!
