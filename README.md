@@ -11,7 +11,9 @@ The only rule is that you share at least one novel and also your source code at 
 
 The source code does not have to be licensed in a particular way, so long as you share it. The code itself does not need to be on Github, either. I'm just using this repo as a place to organize the community.
 
-The "novel" is defined however you want. It could be 50,000 repetitions of the word "meow". But it needs to be 50k+ words.
+The "novel" is defined however you want. It could be 50,000 repetitions of the word "meow". It could literally grab a random novel from Project Gutenberg. It doesn't matter, as long as it's 50k+ words.
+
+_Please try to respect copyright._ I'm not going to police it, as ultimately it's on your head if you want to just copy/paste a Stephen King novel or whatever, but the most useful/interesting implementations are going to be ones that don't engender lawsuits.
 
 This activity ends at 12:01am GMT Dec 1st.
 
