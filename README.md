@@ -1,3 +1,5 @@
+_This is for the 2013 NaNoGenMo. [See here](https://github.com/dariusk/NaNoGenMo-2014) for the 2014 repo!_
+
 # NaNoGenMo
 National Novel Generation Month - based on [an idea I tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168)
 
