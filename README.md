@@ -2,7 +2,7 @@
 
 
 # NaNoGenMo
-National Novel Generation Month - based on [an idea I tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168).
+National Novel Generation Month - based on [an idea I tweeted on a whim](https://tinysubversions.com/twitter-archive/tinysubversions/status/396305662000775168).
 
 ## The Goal
 
